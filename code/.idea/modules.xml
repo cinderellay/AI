@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JL21060004-廖锦涛-实验一-黑白棋.iml" filepath="$PROJECT_DIR$/.idea/JL21060004-廖锦涛-实验一-黑白棋.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JL21060004-廖锦涛-实验三-深度学习/.idea/JL21060004-廖锦涛-实验三-深度学习.iml" filepath="$PROJECT_DIR$/../JL21060004-廖锦涛-实验三-深度学习/.idea/JL21060004-廖锦涛-实验三-深度学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JL21060004-廖锦涛-实验二-线性回归模型/.idea/JL21060004-廖锦涛-实验二-线性回归模型.iml" filepath="$PROJECT_DIR$/../JL21060004-廖锦涛-实验二-线性回归模型/.idea/JL21060004-廖锦涛-实验二-线性回归模型.iml" />
+      <module fileurl="file://E:/face_recognition/.idea/face_recognition.iml" filepath="E:/face_recognition/.idea/face_recognition.iml" />
+    </modules>
+  </component>
+</project>
