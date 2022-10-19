@@ -388,19 +388,8 @@ def find_path(root, total_playout):
 
 ~~~
 
-### Debugging Analysis and Test Results
-
-Running the code, the following occurs :
-
-<img src="C:\Users\18659\AppData\Roaming\Typora\typora-user-images\image-20220526102300227.png" alt="image-20220526102300227" style="zoom: 33%;" />
 
 
-
-On the left side of the figure is ' select mode ', select the desired difficulty, you can start the game. Black represents the player, white defaults to the computer, and green refers to the legal place to go.
-
-Here is the final chess set, if you win will show that you won, otherwise for the computer to win.
-
-<img src="C:\Users\18659\AppData\Roaming\Typora\typora-user-images\image-20220517194821826.png" alt="image-20220517194821826" style="zoom: 33%;" />
 
 
 
